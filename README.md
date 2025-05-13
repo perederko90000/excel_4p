@@ -1,4 +1,4 @@
-Excel Mastery - Curso Profissional de Excel
+## Excel Mastery - Curso Profissional de Excel
 Logo do Excel Mastery
 
 📌 Visão Geral
